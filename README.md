@@ -1,2 +1,2 @@
 # Pandas_miniproject
-Second miniproject
+В данном проекте мы отработали методы соединения таблиц и визуализации в Python.
